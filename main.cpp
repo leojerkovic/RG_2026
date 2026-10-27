@@ -327,3 +327,4 @@ void loadTexture(unsigned int& texture, std::string inputFile) {
     }
     stbi_image_free(data);
 }
+//Ekstra
