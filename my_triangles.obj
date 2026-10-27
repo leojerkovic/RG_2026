@@ -1,0 +1,15 @@
+# my_triangles.obj created by hand.
+
+# first triangle
+v -0.3 -0.3 0.0
+v 0.3 -0.3 0.0
+v 0.0 0.3 0.0
+
+f 1 2 3
+
+# second triangle
+v -0.8 0.1 0.0
+v -0.3 0.1 0.0
+v -0.8 0.6 0.0
+
+f 4 5 6
